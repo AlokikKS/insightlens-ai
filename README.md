@@ -25,7 +25,15 @@ https://insights-ai-frontend-axg7.bolt.host
 - Bolt.new
 
 ## Screenshots
+## Landing Page
 
+![Landing Page](landing%20page.png)
+
+---
+
+## Product Insights Dashboard
+
+![Dashboard](Analysis%20Dashboard.png)
 
 
 ## Product Flow
